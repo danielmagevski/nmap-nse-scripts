@@ -7,9 +7,9 @@ TODO
 - Currently working on password mangling functionality
 
 <footer>
-Paulino Calderon
+<b>Paulino Calderon
 <br>
-calderon()websec.mx
+calderon()websec.mx</b>
 <br>
 http://calderonpale.com
 </footer>
