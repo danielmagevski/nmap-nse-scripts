@@ -6,7 +6,9 @@ TODO
 
 - Currently working on password mangling functionality
 
-<footer>Paulino Calderon
+<footer>
+Paulino Calderon
+<br>
 calderon()websec.mx
 http://calderonpale.com
 </footer>
